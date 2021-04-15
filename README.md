@@ -60,7 +60,7 @@ https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD [BD]
 https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg" group-title="BANGLA",DURONTO TV [BD]
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
+http://103.141.66.36/bpk-tv/10226/default/manifest.mpd
 #EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",BIJOY TV HD [BD]
 https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BANGLA",ANANDA TV HD [BD]
