@@ -1148,7 +1148,7 @@ http://103.205.133.50/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="ICC IPTV",ICC_Bangla Time
 http://103.205.133.50/hls/banglatime.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gb_tv.png" group-title="ICC IPTV",ICC_Gaan Bangla
-http://103.205.133.50/hls/gaanbangla.m3u8
+http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424363/71120906.png" group-title="ICC IPTV",ICC_Sangeet Bangla
 http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424363/71120880.png" group-title="ICC IPTV",ICC_Dhoom Music
