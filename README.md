@@ -1178,7 +1178,7 @@ http://103.205.133.50/hls/zeesalaam.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="ICC IPTV",ICC_Sony Ten 1
 http://103.205.133.50/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC IPTV",ICC_Sony Ten 2
-http://103.205.133.50/hls/ten2.m3u8
+http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="ICC IPTV",ICC_Sony Ten 3
 http://103.205.133.50/hls/ten3.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120947.jpg" group-title="ICC IPTV",ICC_Star Sports 2
