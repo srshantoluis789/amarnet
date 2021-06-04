@@ -3,8 +3,6 @@
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA",## BANGLA ENTERTAINMENT ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF:-1 group-title="BANGLA",BTV WORLD [BD]
-https://video.fdac6-1.fna.fbcdn.net:443/hvideo-cln-lla/_nc_cat-100/v/rFVIZ6SnteCxNJdD5r3Td/_nc_ohc-mRNvmBL22noAX8SjR90/live-dash/dash-abr5/2949063045361490.mpd?_nc_rl=AfACOPsRKPRqvK6u7NY&aaf=1&ccb=2-4&ms=m_CN&replica=0&oh=2910ec85f7a109ddfd6f981b297dfcf2&oe=60BB4343
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA",Sangsad TV [BD]
 https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA",BTV WORLD [BD]
@@ -590,10 +588,10 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",TITAS SPORTS [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",Facebook
 
+https://video.fdac6-1.fna.fbcdn.net:443/hvideo-cln-lla/_nc_cat-100/v/rFVIZ6SnteCxNJdD5r3Td/_nc_ohc-mRNvmBL22noAX8SjR90/live-dash/dash-abr5/2949063045361490.mpd?_nc_rl=AfACOPsRKPRqvK6u7NY&aaf=1&ccb=2-4&ms=m_CN&replica=0&oh=2910ec85f7a109ddfd6f981b297dfcf2&oe=60BB4343
 
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8?fbclid=IwAR1C6ojg5hbP71dVg5nEAjD2CFccw54r1Kgq0e8Bcuw74XX7uBuqtpnKOHs
 
 
 
